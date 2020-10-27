@@ -8,12 +8,6 @@ header {
 	padding-top: 20px;
 }
 
-figcaption {
-  font-weight: 600;
-  color: green;
-  font-size: larger;
-}
-
 .vendor-wrapper {
 	justify-content: left;
 	padding-left: 40px;
